@@ -1,0 +1,3 @@
+﻿# A sandy lab
+
+Home of any .NET core based code experiments...

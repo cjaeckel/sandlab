@@ -1,0 +1,18 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+   // TAB settings
+	"editor.tabSize": 2,
+	"editor.insertSpaces": true,
+	"editor.detectIndentation": false,
+  "editor.formatOnPaste": true,
+
+  "files.encoding": "utf8bom",
+  "files.trimTrailingWhitespace": true
+
+  // ,"files.exclude": {
+  //   "**/.git": true,
+  //   "**/bin": true,
+  //   "**/obj": true
+  // }
+
+}
